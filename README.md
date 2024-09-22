@@ -13,3 +13,7 @@ gapps版本增加Google Play 服务（Google Play Services）、Google Play 商�
 
 2. 设备注册：https://www.google.com/android/uncertified/
    注册完成后，清除Google Play 商店和Google Play 服务两个app的数据
+
+#### 网盘下载
+
+https://www.123pan.com/s/drHGjv-73HE
