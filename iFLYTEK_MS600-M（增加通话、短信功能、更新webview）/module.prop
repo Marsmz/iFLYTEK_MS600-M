@@ -1,0 +1,7 @@
+id=iFLYTEK_MS600-M
+name=讯飞听见L1（4G）系统功能修改
+version=0.1
+versionCode=1
+author=MarsZ
+description=开启无线adb端口5555；增加com.android.dialer(电话)、com.android.messaging(短信)、com.android.contacts(通讯录)；支持切换webview版本com.google.android.webview(版本98.0.4758.87)。
+updateJson=https://example.com/module/update.json
